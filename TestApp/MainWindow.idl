@@ -1,9 +1,9 @@
 namespace TestApp
 {
     [default_interface]
-    runtimeclass Class
+    runtimeclass MainWindow : Microsoft.UI.Xaml.Window
     {
-        Class();
+        MainWindow();
         Int32 MyProperty;
     }
 }
