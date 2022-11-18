@@ -1,0 +1,56 @@
+﻿{
+    "Release": {
+        "Major": 1,
+        "Minor": 1,
+        "Patch": 4,
+        "MajorMinor": {
+            "UInt32": 65537,
+            "HexUInt32": 00010001
+        },
+
+        "Channel": "",
+
+        "VersionTag": "",
+        "VersionShortTag": "",
+
+        "Formatted": {
+            "VersionTag": "",
+            "VersionShortTag": ""
+        }
+    },
+
+    "Runtime": {
+        "Identity" : {
+            "Publisher" : "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+            "PublisherId" : "8wekyb3d8bbwe"
+        },
+        "Version": {
+            "DotQuadNumber": "1004.584.2120.0",
+            "UInt16": 282603385017335808,
+            "HexUInt16": "0x03EC024808480000",
+            "String": "1004.584.2120.0"
+        },
+        "Packages": {
+            "Framework": {
+                "PackageFamilyName": "Microsoft.WindowsAppRuntime.1.1_8wekyb3d8bbwe"
+            },
+            "Main": {
+                "PackageFamilyName": "MicrosoftCorporationII.WinAppRuntime.Main.1.1_8wekyb3d8bbwe"
+            },
+            "Singleton": {
+                "PackageFamilyName": "MicrosoftCorporationII.WinAppRuntime.Singleton_8wekyb3d8bbwe"
+            },
+            "DDLM": {
+                "X86": {
+                    "PackageFamilyName": "Microsoft.WinAppRuntime.DDLM.1004.584.2120.0-x8_8wekyb3d8bbwe"
+                },
+                "X64": {
+                    "PackageFamilyName": "Microsoft.WinAppRuntime.DDLM.1004.584.2120.0-x6_8wekyb3d8bbwe"
+                },
+                "Arm64": {
+                    "PackageFamilyName": "Microsoft.WinAppRuntime.DDLM.1004.584.2120.0-a6_8wekyb3d8bbwe"
+                }
+            }
+        }
+    }
+}
